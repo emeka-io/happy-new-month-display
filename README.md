@@ -19,7 +19,7 @@ This project was a great lesson in hardware drivers. While many 0.96" OLEDs use 
 3. Upload the `.ino` sketch.
 
 ## Result
-![Project Result](images/IMG_0927.jpg)
+![Project Result](assets/wiring-photo.jpg)
 
 ---
 Built by [@emekabuilds_](https://x.com/emekabuilds_)
