@@ -8,7 +8,7 @@ This project taught me why drivers matter in embedded systems. I spent way too m
 Most smaller screens run on the `SSD1306` driver, but this specific 1.3" module uses the `SH1106`. When I tried to force the wrong library, I just got a blank screen and noise. It wasn't a hardware fail—it was a software mismatch. Switching over to the `Adafruit_SH110X` library finally brought the display to life.
 
 ### Driver Mismatch Error
-![Driver_Error](assets/low_memory.png)
+![Driver_Error](assets/weird-screen.jpeg)
 *Figure 1: The OLED showing "static" noise due to the SH1106 chip receiving SSD1306 driver commands.*
 
 ## Wiring (Arduino Uno)
