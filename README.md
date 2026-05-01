@@ -22,4 +22,5 @@ This project was a great lesson in hardware drivers. While many 0.96" OLEDs use 
 ![Project Result](assets/wiring-photo.jpg)
 
 ---
-Built by [@emekabuilds_](https://x.com/emekabuilds_)
+---
+*Built and documented by Chukwuemeka Ifeanyi | Mechatronics Engineering Student | April 2026 | [@emekabuilds_](https://x.com/emekabuilds_)*
