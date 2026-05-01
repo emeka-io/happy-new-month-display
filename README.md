@@ -1,6 +1,6 @@
 # 1.3" OLED Happy New Month Display (SH1106)
 
-A simple but clean Arduino project to display a "Happy New Month" greeting and social handle on a 1.3-inch I2C OLED display.
+A simple Arduino project to display a "Happy New Month" greeting and social handle on a 1.3-inch I2C OLED display.
 
 ## Result
 ![Project Result](assets/wiring-photo.jpg)
