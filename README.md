@@ -29,4 +29,4 @@ Most smaller screens run on the `SSD1306` driver, but this specific 1.3" module 
 
 ---
 ---
-*Built and documented by Chukwuemeka Ifeanyi | Mechatronics Engineering Student | April 2026 | [@emekabuilds_](https://x.com/emekabuilds_)*
+*Built and documented by Chukwuemeka Ifeanyi | Mechatronics Engineering Student | May 2026 | [@emekabuilds_](https://x.com/emekabuilds_)*
