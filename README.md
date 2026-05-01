@@ -3,7 +3,9 @@
 A simple but clean Arduino project to display a "Happy New Month" greeting and social handle on a 1.3-inch I2C OLED display.
 
 ## The Challenge
-This project was a great lesson in hardware drivers. While many 0.96" OLEDs use the `SSD1306` driver, the 1.3" version often uses the `SH1106`. Using the wrong library results in a screen full of "static" or snow. Switching to the `Adafruit_SH110X` library resolved the issue!
+This project taught me why drivers matter in embedded systems. I spent way too much time staring at a weird screen because I assumed the 1.3" OLED worked exactly like the standard 0.96" versions.
+
+Most smaller screens run on the `SSD1306` driver, but this specific 1.3" module uses the `SH1106`. When I tried to force the wrong library, I just got a blank screen and noise. It wasn't a hardware fail—it was a software mismatch. Switching over to the `Adafruit_SH110X` library finally brought the display to life.
 
 ## Wiring (Arduino Uno)
 | OLED Pin | Arduino Pin |
